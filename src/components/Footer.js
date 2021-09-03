@@ -161,8 +161,8 @@ class Footer extends Component {
                 </div>
                 <div className="footer-copyright">
                     <div className="container-fluid">
-                        © 2016 Copyright:
-                    <a href="http://www.MDBootstrap.com"> MDBootstrap.com </a>
+                        © 2020 Copyright:
+                    <a href="#"> Lê Sỹ Hùng </a>
                     </div>
                 </div>
             </footer>
